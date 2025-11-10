@@ -9,11 +9,11 @@ Setiap anggota akan bekerja di branch masing-masing, lalu melakukan pull request
 
 # 👥 Anggota
 
-Abimanyu
-Ranu
-Bryan
-Aldifa
-Suciana
+# Abimanyu
+# Ranu
+# Bryan
+# Aldifa
+# Suciana
 
 # ⚙️ Cara Clone & Setup
 
@@ -23,20 +23,17 @@ Clone hasil fork ke laptop kalian:
 
 git clone https://github.com/usernamekalian/aradabiya-cafe-net.git
 
-
 Masuk ke folder proyek:
 
 cd aradabiya-cafe-net
 
-
 Buat branch baru untuk kerjaan kalian:
 
-git checkout -b namaKalian
-
+git checkout -b [namaKalian]
 
 Contoh:
 
-git checkout -b riza
+git checkout -b RzaaStUNS
 
 # 💻 Cara Upload (Push) ke Branch Sendiri
 
@@ -48,7 +45,7 @@ git commit -m "menambahkan fitur X"
 
 Kirim ke branch kalian di GitHub:
 
-git push origin namaKalian
+git push origin [namaKalian]
 
 
 Buka GitHub → buat Pull Request dari branch kalian ke branch main
