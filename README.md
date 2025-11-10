@@ -65,7 +65,6 @@ Selalu ambil update terbaru sebelum lanjut kerja:
 
 git pull origin main
 
-
 Gunakan pesan commit yang singkat dan jelas.
 
 Kalau ada kendala, tanya dulu di grup sebelum push.
