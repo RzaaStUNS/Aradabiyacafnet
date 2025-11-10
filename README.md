@@ -7,7 +7,7 @@ Setiap anggota akan bekerja di branch masing-masing, lalu melakukan pull request
 /frontend   -> kode tampilan (React, HTML, CSS, JS)
 /backend    -> kode server (Laravel, API, database)
 
-#👥 Anggota
+# 👥 Anggota
 
 Abimanyu
 Ranu
