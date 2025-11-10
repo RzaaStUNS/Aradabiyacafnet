@@ -1,13 +1,13 @@
-☕ Aradabiya Cafe Net
+# ☕ Aradabiya Cafe Net
 
 Repositori ini digunakan untuk pengembangan sistem Aradabiya Cafe Net.
 Setiap anggota bekerja di branch masing-masing, lalu melakukan pull request agar kodenya bisa digabung ke branch utama (main).
 
-📁 Struktur Folder
+# 📁 Struktur Folder
 /frontend   → Kode tampilan (React, HTML, CSS, JS)
 /backend    → Kode server (Laravel, API, Database)
 
-👥 Anggota Tim
+# 👥 Anggota Tim
 
 Abimanyu
 
@@ -19,9 +19,8 @@ Aldifa
 
 Suciana
 
-Riza
 
-⚙️ Cara Clone & Setup
+# ⚙️ Cara Clone & Setup
 
 Fork repositori ini ke akun GitHub masing-masing.
 
@@ -44,7 +43,7 @@ Contoh:
 
 git checkout -b RzaaStUNS
 
-💻 Cara Upload (Push) ke Branch Sendiri
+# 💻 Cara Upload (Push) ke Branch Sendiri
 
 Simpan perubahan:
 
@@ -63,7 +62,7 @@ Pastikan tidak ada konflik.
 
 Diskusikan dulu sebelum merge.
 
-🧠 Tips Kolaborasi
+# 🧠 Tips Kolaborasi
 
 Jangan edit langsung di branch main.
 
@@ -81,7 +80,7 @@ git commit -m "memperbaiki bug pada sistem pembayaran"
 
 Kalau ada konflik atau error, bahas dulu bareng di grup.
 
-⚠️ Catatan Penting
+# ⚠️ Catatan Penting
 
 PERINGATAN UNTUK SEMUA ANGGOTA:
 
