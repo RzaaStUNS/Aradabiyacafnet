@@ -15,7 +15,7 @@ Bryan
 Aldifa
 Suciana
 
-#⚙️ Cara Clone & Setup
+# ⚙️ Cara Clone & Setup
 
 Fork repositori ini ke akun GitHub masing-masing.
 
@@ -38,7 +38,7 @@ Contoh:
 
 git checkout -b riza
 
-#💻 Cara Upload (Push) ke Branch Sendiri
+# 💻 Cara Upload (Push) ke Branch Sendiri
 
 Simpan perubahan:
 
@@ -57,7 +57,7 @@ Pastikan tidak ada konflik
 
 Tunggu review dari administrator
 
-#🧠 Tips Kolaborasi
+# 🧠 Tips Kolaborasi
 
 Jangan edit langsung di branch main.
 
