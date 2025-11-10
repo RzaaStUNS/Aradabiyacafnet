@@ -1,21 +1,27 @@
-# Aradabiya Cafe Net
+☕ Aradabiya Cafe Net
 
-Repositori ini digunakan untuk pengembangan sistem Aradabiya Cafe Net, tempat latihan dan kolaborasi bersama.
-Setiap anggota akan bekerja di branch masing-masing, lalu melakukan pull request agar kodenya bisa digabung ke branch utama.
+Repositori ini digunakan untuk pengembangan sistem Aradabiya Cafe Net.
+Setiap anggota bekerja di branch masing-masing, lalu melakukan pull request agar kodenya bisa digabung ke branch utama (main).
 
-#📁 Struktur Folder
-/frontend   -> kode tampilan (React, HTML, CSS, JS)
-/backend    -> kode server (Laravel, API, database)
+📁 Struktur Folder
+/frontend   → Kode tampilan (React, HTML, CSS, JS)
+/backend    → Kode server (Laravel, API, Database)
 
-# 👥 Anggota
+👥 Anggota Tim
 
-# Abimanyu
-# Ranu
-# Bryan
-# Aldifa
-# Suciana
+Abimanyu
 
-# ⚙️ Cara Clone & Setup
+Ranu
+
+Bryan
+
+Aldifa
+
+Suciana
+
+Riza
+
+⚙️ Cara Clone & Setup
 
 Fork repositori ini ke akun GitHub masing-masing.
 
@@ -23,19 +29,22 @@ Clone hasil fork ke laptop kalian:
 
 git clone https://github.com/usernamekalian/aradabiya-cafe-net.git
 
+
 Masuk ke folder proyek:
 
 cd aradabiya-cafe-net
 
-Buat branch baru untuk kerjaan kalian:
+
+Buat branch baru sesuai nama kalian:
 
 git checkout -b [namaKalian]
+
 
 Contoh:
 
 git checkout -b RzaaStUNS
 
-# 💻 Cara Upload (Push) ke Branch Sendiri
+💻 Cara Upload (Push) ke Branch Sendiri
 
 Simpan perubahan:
 
@@ -48,20 +57,41 @@ Kirim ke branch kalian di GitHub:
 git push origin [namaKalian]
 
 
-Buka GitHub → buat Pull Request dari branch kalian ke branch main
+Buka GitHub dan buat Pull Request (PR) dari branch kalian ke main.
 
-Pastikan tidak ada konflik
+Pastikan tidak ada konflik.
 
-Tunggu review dari administrator
+Diskusikan dulu sebelum merge.
 
-# 🧠 Tips Kolaborasi
+🧠 Tips Kolaborasi
 
 Jangan edit langsung di branch main.
 
-Selalu ambil update terbaru sebelum lanjut kerja:
+Sebelum lanjut kerja, selalu ambil update terbaru:
 
 git pull origin main
 
-Gunakan pesan commit yang singkat dan jelas.
 
-Kalau ada kendala, tanya dulu di grup sebelum push.
+Gunakan pesan commit yang jelas dan singkat.
+Contoh:
+
+git commit -m "menambahkan halaman menu"
+git commit -m "memperbaiki bug pada sistem pembayaran"
+
+
+Kalau ada konflik atau error, bahas dulu bareng di grup.
+
+⚠️ Catatan Penting
+
+PERINGATAN UNTUK SEMUA ANGGOTA:
+
+🚫 Jangan ubah atau push langsung ke branch main!
+Semua perubahan harus lewat Pull Request (PR).
+
+⚙️ Jangan hapus branch milik orang lain tanpa izin.
+
+🔄 Selalu sync (pull) branch main sebelum lanjut coding, agar tidak terjadi konflik.
+
+💬 Diskusikan dulu di grup jika ingin ubah struktur folder, dependensi, atau alur sistem.
+
+🧩 Gunakan branch sendiri untuk eksperimen atau fitur baru.
