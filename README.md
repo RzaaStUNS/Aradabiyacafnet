@@ -26,7 +26,7 @@ Fork repositori ini ke akun GitHub masing-masing.
 
 Clone hasil fork ke laptop kalian:
 
-git clone https://github.com/usernamekalian/aradabiya-cafe-net.git
+git clone https://github.com/RzaStUNS/aradabiya-cafe-net.git
 
 
 Masuk ke folder proyek:
